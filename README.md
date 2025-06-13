@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://your-banner-image-url-here.png" alt="Kaushi Kavindaya - Full Stack Developer" />
+  <img src="https://ik.imagekit.io/is0pvsixg/ChatGPT%20Image%20Jun%2014,%202025,%2001_11_29%20AM.png?updatedAt=1749843886159" alt="Kaushi Kavindaya - Full Stack Developer" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Kaushi Kavindaya</h1>
