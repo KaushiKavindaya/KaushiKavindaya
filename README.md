@@ -76,7 +76,7 @@
 
 ### ✨ Fun Facts
 
-- 🐱 Cat person & coffee enthusiast  
+- 🐱 Dog person & coffee enthusiast  
 - 🌙 Most productive at night  
 - ✨ Favorite IDE: **VS Code**  
 - 🔁 I love building things from scratch, breaking them, and building again better  
